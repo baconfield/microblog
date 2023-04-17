@@ -7,6 +7,8 @@ Clone/fork this repository and make a commit with this change. After you've made
 
 <BR><BR>
 
+![alt text](Homepage.png)
+
 ## Contributions
 Feel free to clone this repo locally and use your own editor of choice.
 
